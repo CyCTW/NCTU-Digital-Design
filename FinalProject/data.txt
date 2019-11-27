@@ -1,0 +1,29 @@
+111111
+
+1
+
+100 * 1 cookies
++
+50 * 9 hotdogs
+c
+12 * 3 banana
+$
++
+3 * 23 candy
+--
++
+79 * 1 potato_chips
++
+100 * 3 towel
+f
+cash
+
+2
+
+25 * 1 soda
++
+65 * 1 curry_rice
++
+12 * 3 apples
+f
+cash
